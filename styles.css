@@ -15,6 +15,7 @@ h1, button{
 }
 .row div{
     border: 1px solid #dddddd;
+    background-color: rgb(255,255,255);
     border-collapse: collapse;
     width: 10px;
     height: 10px;
